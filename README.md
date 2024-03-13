@@ -1,3 +1,9 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mugambi12/node-js-for-beginners?color=blueviolet)
+![Number of lines of code](https://img.shields.io/tokei/lines/github/mugambi12/node-js-for-beginners?color=blueviolet)
+![Code language count](https://img.shields.io/github/languages/count/mugambi12/node-js-for-beginners?color=blue)
+![GitHub top language](https://img.shields.io/github/languages/top/mugambi12/node-js-for-beginners?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/mugambi12/node-js-for-beginners?color=brightgreen)
+
 # Node.js Beginner Tutorials
 
 Welcome to the Node.js for beginners tutorial series! This repository contains code examples and explanations to help beginners learn Node.js.
